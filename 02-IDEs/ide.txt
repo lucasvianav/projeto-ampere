@@ -1,0 +1,40 @@
+    Ubuntu:
+        * Não é necessário baixar nada extra
+        * Compilação no terminal (gcc)
+        * Execução
+        
+    IDE: VSCode
+        * Vários temas
+        * Enorme biblioteca de extensões, incluindo temas (indicar algumas)
+            * Bracket Pair Colorizers
+            * C/C++
+            * C++ Intelissense
+            * Live Share
+            * Path Intelissense
+            * GitLens
+            * Neo Vim
+            * NeoVim Ui Modifier
+            * WhichKey
+        * Integração com Git
+        * Terminal integrado
+            * Provavelmente deve ter sido mais abordado nas outras explicações
+            * Acaba sendo mais útil no Windows
+        * Neovim (mostrar principais atalhos)
+            * Vi, Vim, Neovim: editor de texto feito para ser controlado completamente apenas pelo teclado
+            * i, I, a, A, o, O
+            * <ESC>, jk
+            * :w, :q, :wq, :q!
+            * h, j, k, l
+            * yy, dd, x, p, P
+            * w, b
+            * yw, yb, dw, db
+            * f, t
+            * v, V, ^V
+            * u, ^R
+        * WhichKey
+        * Básico de como configurar o Neovim
+            * Aonde baixar: https://github.com/neovim/neovim
+            * Indicar plug-in manager: https://github.com/junegunn/vim-plug
+            * Indicar tutoriais mais aprofundados: http://bit.ly/NeovimTutorials
+
+
